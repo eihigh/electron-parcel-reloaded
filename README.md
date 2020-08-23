@@ -1,6 +1,8 @@
 # electron-parcel-reloaded
 Reload-enabled electron + parcel development environment
 
+https://qiita.com/eihigh/items/0aaf064014c5b1e72282
+
 ## Usage
 ### Installation
 ```
